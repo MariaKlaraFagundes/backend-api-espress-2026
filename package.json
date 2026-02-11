@@ -1,0 +1,20 @@
+{
+  "name": "backend-api-espress-2026",
+  "version": "1.0.0",
+  "description": "Backend API com Espress, Prisma ORG e Zod",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "httsp://www.github.com/MariaKlaraFagundes/backend-api-express-2026.git"
+  },
+  "author": "Maria Klara Fagundes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
