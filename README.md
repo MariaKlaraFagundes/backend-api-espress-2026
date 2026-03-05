@@ -17,3 +17,13 @@ se muda no type do packend.json
 - Create, Read, Update, Delete (CRUD)
 - Extenções usadas : bruno, draw.io
 
+03.03
+- para que serve --watch ao rodar o servidor?
+- Para que serve o Router do Express?
+- o que é o padrão de projeto?
+- "                         " MVC?
+- Qual é a responsabilidade de cada camada?
+- Padrão de projeto (MVC - Model, View, Controller)
+- conceitos principais do Modal: regras de negocios e acesso aos dados 3D 
+- "                     " Controller: papel de controlar do fluxo de entrada, processamento e de saida
+- router - distribui as resposabilidades das funções
