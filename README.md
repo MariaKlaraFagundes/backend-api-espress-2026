@@ -1,6 +1,6 @@
 # Tópicos importantes
 
-revisão da aula passada
+- revisão da aula passada
 - Qual a linguagem de programação utilizada para o nosso Backend?
 - O que é Node.js?
 - "     " NPM?
