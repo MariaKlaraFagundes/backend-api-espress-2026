@@ -56,3 +56,9 @@ modal user {
 }
 
 - obs: não precisa decorar isso,pois existe IA que que faz por vc, mas so e necessario caso eu queira me aprofundar.
+
+17.03 (MATERIA NOVA)
+
+- JSON é uma String que representa um objeto do JavaScript
+- tenho que mudar sempre para json para objeto e objeto para json
+- 
