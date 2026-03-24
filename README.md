@@ -61,4 +61,9 @@ modal user {
 
 - JSON é uma String que representa um objeto do JavaScript
 - tenho que mudar sempre para json para objeto e objeto para json
-- 
+
+
+24.03
+- se o if tiver so uma funcao os {} e opcional
+- +id ela converte para int, quando o sistema da erro de string para int
+- create,delete,find

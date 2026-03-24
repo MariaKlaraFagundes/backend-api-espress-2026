@@ -1,3 +1,12 @@
-export function getPublicationController(req, res) {
-  res.send("Exemplo de GET na rota /publication no Controller")
+import { getPublication } from "../../models/publicationModal"
+
+export async function getPublication(req, res){
+
+    const result = getPublication
+
+    res.json({
+        message: "Usuários listados com sucesso!",
+        getPublication: result
+
+    })
 }
